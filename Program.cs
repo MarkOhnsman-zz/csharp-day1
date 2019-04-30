@@ -20,8 +20,6 @@ namespace hwapp
             myNum *= 2;
             Console.WriteLine(12 % 2);
 
-            int OtherNumber = 8;
-
         }
     }
 }
